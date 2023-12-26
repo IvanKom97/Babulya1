@@ -13,6 +13,9 @@ public class Main {
         var allGirls = Anton + Anton + Oleg + Sema;
         System.out.println("Всего пацаны отымели " + allGirls + " телочек, кроме Олега!");
 
+        var Ivan = 1000;
+
+
 
     }
 }
