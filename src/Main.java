@@ -14,6 +14,8 @@ public class Main {
         System.out.println("Всего пацаны отымели " + allGirls + " телочек, кроме Олега!");
 
         var Ivan = 1000;
+        Ivan = Ivan + allGirls;
+        System.out.println("Бабуля Сереговна " + Ivan);
 
 
 
